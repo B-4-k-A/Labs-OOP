@@ -16,7 +16,7 @@ public class INIParcer {
     }
 
     private static HashMap<String, HashMap<String, String>> read(File file)
-            throws FileNotFoundException, FileFormatException, WrongFileExtensionException {
+            throws FileFormatException, WrongFileExtensionException, FileNotFoundException {
         HashMap<String, HashMap<String, String>> data = new HashMap<>();
         if (!file.getName().matches("[a-zA-Z0-9_]*\\.ini")) {
             throw new WrongFileExtensionException("Error! Wrong extension of file.");

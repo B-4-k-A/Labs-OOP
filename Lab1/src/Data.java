@@ -16,11 +16,10 @@ public class Data {
     private String getValue(String section, String config) throws NameNotFoundException {
         HashMap<String, String> tempSection = new HashMap<>();
         String value;
-		if((tempSection = data.get(section)) == null) {
-            throw new NameNotFoundException("There is no value with this section and config");
-        }
-        else if((value = tempSection.get(config)) == null) {
-            throw new NameNotFoundException("There is no value with this section and config");
+        if ((tempSection = data.get(section)) == null) {
+            throw new NameNotFoundException("There is not this section");
+        } else if ((value = tempSection.get(config)) == null) {
+            throw new NameNotFoundException("There is not config in " + section);
         }
         return value;
     }
