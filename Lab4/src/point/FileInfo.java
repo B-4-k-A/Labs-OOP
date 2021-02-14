@@ -1,4 +1,4 @@
-package src;
+package src.point;
 
 
 public class FileInfo {
@@ -25,5 +25,10 @@ public class FileInfo {
         
     public void setSize(double size) {
         this.size = size;
+    }
+
+    @Override
+    public String toString() {
+        return name + "\t\t" + size ;
     }
 }

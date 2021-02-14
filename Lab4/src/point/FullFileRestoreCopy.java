@@ -1,4 +1,4 @@
-package src;
+package src.point;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -10,11 +10,11 @@ public class FullFileRestoreCopy extends FileRestoreCopy {
     }
 
     @Override
-    void createRestoreCopy(ArrayList<FileInfo> fileInfoList) {
+    protected void createRestoreCopy(ArrayList<FileInfo> fileInfoList) {
         for (FileInfo fileInfo : fileInfoList) {
             addFile(new FileInfo(fileInfo));
-            incrementSize(fileInfo.getSize());
+            size += fileInfo.getSize();
         }
-        setData(new Date());
+        date = new Date();
     }
 }
