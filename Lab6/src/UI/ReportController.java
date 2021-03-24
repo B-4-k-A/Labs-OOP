@@ -4,7 +4,10 @@ import BLL.DTO.DayReportDTO;
 import BLL.DTO.SprintReportDTO;
 import BLL.DTO.WorkerDTO;
 import BLL.ReportService;
+<<<<<<< HEAD
+=======
 import DAL.Entities.Worker;
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 import UI.ViewModel.DayReportView;
 import UI.ViewModel.SprintReportView;
 import UI.ViewModel.WorkerView;
@@ -35,6 +38,10 @@ public class ReportController {
         var w = new WorkerDTO(worker.getId());
         var r = new SprintReportDTO(sprintReport.getId());
         service.writeReport(w, r, text);
+<<<<<<< HEAD
+        sprintReport.setText(r.getText());
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
     }
 
     public void saveSprintReport(WorkerView worker, SprintReportView sprintReport) throws Exception {
@@ -44,3 +51,7 @@ public class ReportController {
         service.saveSprintReport(w, r);
     }
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

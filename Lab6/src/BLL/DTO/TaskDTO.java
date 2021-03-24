@@ -83,6 +83,8 @@ public class TaskDTO {
         this.commentList = commentList;
     }
 
+<<<<<<< HEAD
+=======
 
     //    public void addComment(WorkerDTO author, String text) {
 //        commentList.add(new CommentDTO(author, text));
@@ -122,7 +124,12 @@ public class TaskDTO {
 //    }
 
 
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 }
 
 
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

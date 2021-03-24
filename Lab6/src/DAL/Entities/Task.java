@@ -89,6 +89,8 @@ public class Task implements IEntity {
         //some Work, for initialize that method working print about it in console
         System.out.println("Worker working");
     }
+<<<<<<< HEAD
+=======
 
     //    public void addComment(WorkerDTO author, String text) {
 //        commentList.add(new CommentDTO(author, text));
@@ -128,7 +130,12 @@ public class Task implements IEntity {
 //    }
 
 
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 }
 
 
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

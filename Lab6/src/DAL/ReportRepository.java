@@ -1,6 +1,10 @@
 package DAL;
 
 import DAL.Entities.DayReport;
+<<<<<<< HEAD
+import DAL.Entities.Report;
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 import DAL.Entities.SprintReport;
 import DAL.Entities.Worker;
 import DAL.InfoStructure.IReportRepository;
@@ -8,6 +12,10 @@ import DAL.InfoStructure.IReportRepository;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
+<<<<<<< HEAD
+import java.util.Optional;
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 import java.util.stream.Collectors;
 
 public class ReportRepository implements IReportRepository {
@@ -55,8 +63,23 @@ public class ReportRepository implements IReportRepository {
     }
 
     @Override
+<<<<<<< HEAD
+    public void writeReport(Worker worker, SprintReport sprintReport, String text) throws Exception {
+        Optional<SprintReport> option = sprintReportList.stream().filter(r -> r.getId() == sprintReport.getId()).
+                findFirst();
+        if(option.isEmpty()) {
+            throw new Exception("SprintReport doesn't exists");
+        }
+        SprintReport temp = option.get();
+        temp.setText(text);
+        sprintReport.setText(temp.getText());
+    }
+}
+
+=======
     public void writeReport(Worker worker, SprintReport sprintReport, String text) {
         sprintReportList.stream().filter(r -> r.getId() == sprintReport.getId()).
                 findFirst().get().setText(text);
     }
 }
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

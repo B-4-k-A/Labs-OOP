@@ -1,0 +1,161 @@
+Change.java
+Change.java
+The contents of the target file
+were lost.
+ChangeComment.java
+ChangeComment.java
+The contents of the target file
+were lost.
+ChangeOwner.java
+ChangeOwner.java
+The contents of the target file
+were lost.
+ChangeState.java
+ChangeState.java
+The contents of the target file
+were lost.
+Comment.java
+Comment.java
+The contents of the target file
+were lost.
+CommentDTO.java
+CommentDTO.java
+The contents of the target file
+were lost.
+CommentView.java
+CommentView.java
+The contents of the target file
+were lost.
+DayReport.java
+DayReport.java
+The contents of the target file
+were lost.
+DayReportDTO.java
+DayReportDTO.java
+The contents of the target file
+were lost.
+DayReportView.java
+DayReportView.java
+The contents of the target file
+were lost.
+IEntity.java
+IEntity.java
+The contents of the target file
+were lost.
+IReportRepository.java
+IReportRepository.java
+The contents of the target file
+were lost.
+IReportService.java
+IReportService.java
+The contents of the target file
+were lost.
+ITaskRepository.java
+ITaskRepository.java
+The contents of the target file
+were lost.
+ITaskService.java
+ITaskService.java
+The contents of the target file
+were lost.
+IWorkerRepository.java
+IWorkerRepository.java
+The contents of the target file
+were lost.
+IWorkerService.java
+IWorkerService.java
+The contents of the target file
+were lost.
+Main.java
+Main.java
+The contents of the target file
+were lost.
+MainController.java
+MainController.java
+The contents of the target file
+were lost.
+Report.java
+Report.java
+The contents of the target file
+were lost.
+ReportController.java
+ReportController.java
+The contents of the target file
+were lost.
+ReportDTO.java
+ReportDTO.java
+The contents of the target file
+were lost.
+ReportRepository.java
+ReportRepository.java
+The contents of the target file
+were lost.
+ReportService.java
+ReportService.java
+The contents of the target file
+were lost.
+ReportView.java
+ReportView.java
+The contents of the target file
+were lost.
+SprintReport.java
+SprintReport.java
+The contents of the target file
+were lost.
+SprintReportDTO.java
+SprintReportDTO.java
+The contents of the target file
+were lost.
+SprintReportView.java
+SprintReportView.java
+The contents of the target file
+were lost.
+Task.java
+Task.java
+The contents of the target file
+were lost.
+TaskController.java
+TaskController.java
+The contents of the target file
+were lost.
+TaskDTO.java
+TaskDTO.java
+The contents of the target file
+were lost.
+TaskRepository.java
+TaskRepository.java
+The contents of the target file
+were lost.
+TaskService.java
+TaskService.java
+The contents of the target file
+were lost.
+TaskView.java
+TaskView.java
+The contents of the target file
+were lost.
+Worker.java
+Worker.java
+The contents of the target file
+were lost.
+WorkerController.java
+WorkerController.java
+The contents of the target file
+were lost.
+WorkerDTO.java
+WorkerDTO.java
+The contents of the target file
+were lost.
+WorkerRepository.java
+WorkerRepository.java
+The contents of the target file
+were lost.
+WorkerService.java
+WorkerService.java
+The contents of the target file
+were lost.
+WorkerView.java
+WorkerView.java
+The contents of the target file
+were lost.
+       40 file(s) copied.

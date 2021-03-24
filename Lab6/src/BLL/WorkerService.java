@@ -5,7 +5,10 @@ import BLL.InfoStructure.IWorkerService;
 import DAL.Entities.Worker;
 import DAL.InfoStructure.IWorkerRepository;
 
+<<<<<<< HEAD
+=======
 import java.util.ArrayList;
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -55,3 +58,7 @@ public class WorkerService implements IWorkerService {
     }
 
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

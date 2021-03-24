@@ -1,8 +1,11 @@
 package UI.ViewModel;
 
+<<<<<<< HEAD
+=======
 import DAL.Entities.Worker;
 import DAL.InfoStructure.IEntity;
 
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 import java.util.Calendar;
 
 public class ReportView {
@@ -16,7 +19,11 @@ public class ReportView {
         this.owner = owner;
         this.startTime = Calendar.getInstance();
         this.endTime = endTime;
+<<<<<<< HEAD
+        this.text = "";
+=======
 
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
     }
 
     public ReportView(int id) {
@@ -64,3 +71,7 @@ public class ReportView {
     }
 }
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

@@ -40,14 +40,27 @@ public class Main {
             pyCharm.setSize(200);
             SQLserver.setSize(200);
 
+<<<<<<< HEAD
+            sleep(100);
+            Date date = new Date();
+
             backup.createIncRestoreCopy(fileInfoList);
 
+//            backup.showBackupInfo();
+
+=======
+            backup.createIncRestoreCopy(fileInfoList);
+
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
             vsCode.setSize(300);
             pyCharm.setSize(300);
             SQLserver.setSize(300);
 
+<<<<<<< HEAD
+=======
             sleep(100);
             Date date = new Date();
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
             backup.createFullRestoreCopy(fileInfoList);
             backup.createFullRestoreCopy(fileInfoList);
 
@@ -58,7 +71,11 @@ public class Main {
             BaseHybridCleaner cleanerHybridByMin = new CleanerHybridByMax(cleaners);
 
             backup.showBackupInfo();
+<<<<<<< HEAD
+            ICheck cleaner = cleanerByDate;
+=======
             ICheck cleaner = cleanerHybridByMin;
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
             backup.clean(cleaner);
             System.out.println("***********\n" + "After clean\n" + "***********\n");
             backup.showBackupInfo();

@@ -54,7 +54,11 @@ public class Main {
 
             String text = sprintReport.getText();
 
+<<<<<<< HEAD
+            text += "Editing report\n";
+=======
             text += "editing report";
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 
             reportConroller.writeReport(alex, sprintReport, text);
 
@@ -84,4 +88,8 @@ public class Main {
 ////                case 4:
 ////                case 5:
 //                }
+<<<<<<< HEAD
+//            }
+=======
 //            }
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

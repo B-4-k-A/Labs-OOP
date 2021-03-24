@@ -16,3 +16,7 @@ public interface IWorkerRepository {
 
     Worker getWorker(Worker worker) throws Exception;
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

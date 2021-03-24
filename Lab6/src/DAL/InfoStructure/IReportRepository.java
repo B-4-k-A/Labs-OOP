@@ -18,5 +18,11 @@ public interface IReportRepository {
 
     void saveSprintReport(SprintReport sprintReport);
 
+<<<<<<< HEAD
+    void writeReport(Worker worker, SprintReport sprintReport, String text) throws Exception;
+}
+
+=======
     void writeReport(Worker worker, SprintReport sprintReport, String text);
 }
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

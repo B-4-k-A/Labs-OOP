@@ -43,6 +43,13 @@ public class ReportDTO {
         return text;
     }
 
+<<<<<<< HEAD
+    public void setText(String text) {
+        this.text = text;
+    }
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
     public void setId(int id) {
         this.id = id;
     }
@@ -51,6 +58,11 @@ public class ReportDTO {
         this.owner = owner;
     }
 
+<<<<<<< HEAD
+}
+
+
+=======
 //    public void setStartTime(Calendar startTime) {
 //        this.startTime = startTime;
 //    }
@@ -68,3 +80,4 @@ public class ReportDTO {
 //    }
 }
 
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

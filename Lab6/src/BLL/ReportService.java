@@ -53,7 +53,11 @@ public class ReportService implements IReportService {
 
     public void saveSprintReport(WorkerDTO worker, SprintReportDTO sprintReport) throws Exception {
         var w = new Worker(worker.getId());
+<<<<<<< HEAD
+        if(w.getId() != sprintReport.getOwner().getId()) {
+=======
         if(w.getChildWorkers() == null) {
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
             throw new Exception("You dont have acces for this action");
         }
         var r = new SprintReport(w, sprintReport.getEndTime());
@@ -64,5 +68,11 @@ public class ReportService implements IReportService {
         var w = new Worker(worker.getId());
         var r = new SprintReport(report.getId());
         repo.writeReport(w, r, text);
+<<<<<<< HEAD
+        report.setText(r.getText());
+    }
+}
+=======
     }
 }
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

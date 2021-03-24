@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97dad6bc-daa5-4ed7-8d82-135d1ee6df2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/Backup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/BaseCleaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/BaseHybridCleaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/Clean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CleanerByAmount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CleanerByDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CleanerBySize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CleanerHybridByMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CleanerHybridByMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/FileInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/FileRestoreCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/FullFileRestoreCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/ICheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/IClean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/IncFileRestoreCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/BLL/DTO/ReportDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/BLL/DTO/ReportDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/BLL/ReportService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/BLL/ReportService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/DAL/Entities/Report.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/DAL/Entities/Report.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/DAL/InfoStructure/IReportRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/DAL/InfoStructure/IReportRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/DAL/ReportRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/DAL/ReportRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/UI/ReportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/UI/ReportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/out/production/Lab6/UI/ViewModel/ReportView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/UI/ViewModel/ReportView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/ReportDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/ReportDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/SprintReportDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/SprintReportDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/TaskDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/TaskDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/WorkerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/BLL/DTO/WorkerDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/BLL/ReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/BLL/ReportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/BLL/WorkerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/BLL/WorkerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/DAL/Entities/DayReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/DAL/Entities/DayReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/DAL/Entities/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/DAL/Entities/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/DAL/Entities/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/DAL/Entities/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/DAL/InfoStructure/IReportRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/DAL/InfoStructure/IReportRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/DAL/ReportRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/DAL/ReportRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/UI/ReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/UI/ReportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/UI/ViewModel/DayReportView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/UI/ViewModel/DayReportView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/UI/ViewModel/ReportView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/UI/ViewModel/ReportView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/UI/WorkerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/UI/WorkerController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1opitp1n945KaTLDTLefKcbN1U8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97dad6bc-daa5-4ed7-8d82-135d1ee6df2f" name="Default Changelist" comment="" />
+      <created>1613990151828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613990151828</updated>
+      <workItem from="1613990153448" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

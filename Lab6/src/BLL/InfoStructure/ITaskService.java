@@ -31,3 +31,7 @@ public interface ITaskService {
 
     void doWork(TaskDTO task, WorkerDTO worker) throws Exception;
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

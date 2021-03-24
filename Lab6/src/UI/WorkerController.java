@@ -2,7 +2,10 @@ package UI;
 
 import BLL.DTO.WorkerDTO;
 import BLL.InfoStructure.IWorkerService;
+<<<<<<< HEAD
+=======
 import DAL.Entities.Worker;
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 import UI.ViewModel.WorkerView;
 
 import java.util.*;
@@ -11,7 +14,10 @@ import java.util.stream.Collectors;
 public class WorkerController {
 
     private IWorkerService service;
+<<<<<<< HEAD
+=======
 //    private HashMap<String, Integer> workerID = new HashMap<>();
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 
     public WorkerController(IWorkerService service) {
         this.service = service;
@@ -86,4 +92,8 @@ public class WorkerController {
 //            }
 //        }
 //    }
+<<<<<<< HEAD
+}
+=======
 }
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

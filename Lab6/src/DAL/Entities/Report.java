@@ -13,7 +13,10 @@ public class Report {
         this.owner = owner;
         this.startTime = Calendar.getInstance();
         this.endTime = endTime;
+<<<<<<< HEAD
+=======
 
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
     }
 
     public Report(int id) {
@@ -61,3 +64,7 @@ public class Report {
     }
 }
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

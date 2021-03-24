@@ -1,9 +1,14 @@
 package BLL.DTO;
 
+<<<<<<< HEAD
+
+import java.util.List;
+=======
 import DAL.Entities.Worker;
 
 import java.util.List;
 import java.util.Optional;
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 
 public class WorkerDTO {
     private int id;
@@ -36,11 +41,14 @@ public class WorkerDTO {
         this.name = name;
     }
 
+<<<<<<< HEAD
+=======
 //    public Worker convertToDAL() {
 //        var worker = new Worker(id, name);
 //        return worker;
 //    }
 
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
     public List<WorkerDTO> getChildWorkers() {
         return childWorkers;
     }
@@ -57,3 +65,7 @@ public class WorkerDTO {
         this.childWorkers = childWorkers;
     }
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af

@@ -1,6 +1,9 @@
 package BLL.DTO;
 
+<<<<<<< HEAD
+=======
 import DAL.Entities.SprintReport;
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
 
 import java.util.Calendar;
 
@@ -24,6 +27,10 @@ public class SprintReportDTO extends ReportDTO {
         this.draft= draft;
     }
 
+<<<<<<< HEAD
+}
+
+=======
 //    @Override
 //    public SprintReport convertToDAL() {
 //        var sprintReport = (SprintReport)super.convertToDAL();
@@ -31,3 +38,4 @@ public class SprintReportDTO extends ReportDTO {
 //        return sprintReport;
 //    }
 }
+>>>>>>> 796b62f3b6b590a60f88f3488e46281af90009af
